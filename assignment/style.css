@@ -9,3 +9,17 @@ h3{
     background: black;
     font: white;
 }
+.frstimage{
+    width: 200px;
+    height: auto;
+    border: 2px solid black;
+    margin: 10px;
+    padding: 5px;
+}
+.scndimage{
+    width: 200px;
+    height: auto;
+    border: 2px solid black;
+    margin: 10px;
+    padding: 5px;
+}
