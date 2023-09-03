@@ -2,24 +2,29 @@ header{
     background: blueviolet;
 }
 h2{
-    background: black;
+    background: blueviolet;
     font: white;
 }
 h3{
-    background: black;
+    background: blueviolet;
     font: white;
 }
 .frstimage{
     width: 200px;
     height: auto;
-    border: 2px solid black;
-    margin: 10px;
+    border: 2px solid powderblue;
+    margin: auto;
     padding: 5px;
+    
 }
 .scndimage{
     width: 200px;
     height: auto;
-    border: 2px solid black;
-    margin: 10px;
+    border: 2px solid powderblue;
+    margin: auto;
     padding: 5px;
+    
+}
+body{
+    background: grey;
 }
